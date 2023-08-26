@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap');
+#hello{
+    color: greenyellow;
+    margin-top: 60px;
+    font-family: 'Josefin Sans','Courier New', Courier, monospace;
+}
+p{
+    font-size: 20px;
+    font-family: 'Josefin Sans','Courier New', Courier, monospace;
+    text-align: justify;
+    color: gray;
+}
+h3{
+    color: #FA4D56;
+    font-family: 'Playfair Display','Courier New', Courier, monospace;
+}
